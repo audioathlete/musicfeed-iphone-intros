@@ -1,0 +1,15 @@
+{
+  "name": "musicfeed-phone-intro",
+  "private": true,
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.2",
+    "gulp-less": "^1.3.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.1",
+    "run-sequence": "^1.0.2"
+  },
+  "author": "ips",
+  "license": "proprietary"
+}
